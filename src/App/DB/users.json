@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "phone": "+998981212776",
+        "email": "shaxzodbek.qambaraliyev@gmail.com",
+        "name": "Shaxzodbek Qambaraliyev",
+        "telegram_chat_id": 90232909039,
+        "pusher_id": 3939090290,
+        "firebase_id": 3939090290,
+        "age": 22
+    },
+    {
+        "id": 2,
+        "phone": "+99898327832328",
+        "email": "azizbek@gmail.com",
+        "name": "Azizbek Eshonaliyev",
+        "telegram_chat_id": 90232909039,
+        "pusher_id": 5478547890,
+        "firebase_id": 5478547890,
+        "age": 23
+    },
+    {
+        "id": 3,
+        "phone": "+998983283939890",
+        "email": "samanadar@gmail.com",
+        "name": "Samanadar Xo'jabekov",
+        "telegram_chat_id": 23783278278,
+        "pusher_id": 5678547854,
+        "firebase_id": 5678547854,
+        "age": 23
+    }
+]

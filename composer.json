@@ -1,6 +1,11 @@
 {
+    "name": "shaxzodbek/notify-user",
+    "type": "project",
+    "description": "Notify user about order",
     "require": {
-        "symfony/console": "^5.1"
+        "php": "^7.1.3",
+        "symfony/console": "^5.1",
+        "jajo/jsondb": "^2.1"
     },
     "autoload": {
          "psr-4": {

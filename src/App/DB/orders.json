@@ -1,0 +1,35 @@
+[
+    {
+        "id": "O-2829",
+        "product":{
+            "id": 12,
+            "name": "iPhone X 64GB",
+            "cost": "928"
+        },
+        "count": 2,
+        "price": 1856,
+        "user_id": 1
+    },
+    {
+        "id": "O-4564",
+        "product":{
+            "id": 13,
+            "name": "iPhone 7 32GB",
+            "cost": "250"
+        },
+        "count": 3,
+        "price": 750,
+        "user_id": 2
+    },
+    {
+        "id": "O-2342",
+        "product":{
+            "id": 14,
+            "name": "iPhone 8 128GB",
+            "cost": "630"
+        },
+        "count": 4,
+        "price": 2520,
+        "user_id": 3
+    }
+]
